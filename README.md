@@ -1,10 +1,8 @@
 # GroupProject_StayHome_API
-This is the **main project Readme**, for UI code, visit:<br>https://github.ccs.neu.edu/NEU-CS5610-SU20/GroupProject_StayHome_UI
+This is the **main project Readme**, for UI code, visit:<br>https://github.com/kakatcy/music_website_ui
 
-## Team Info
-TeamName: StayHome       
-App Name: Teatime music website     
-Team Member: Chuanyang Tang, Nan Ke   
+## Contributor
+Chuanyang Tang, Nan Ke   
 
 ## Heroku Application
 https://stayhome-ui.herokuapp.com
